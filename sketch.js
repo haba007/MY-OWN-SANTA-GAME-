@@ -54,7 +54,7 @@ cookies.scale=0.5
 houseGroup=new Group();
 giftGroup=new Group();
 
-fBack1=createSprite(displayWidth/2,displayHeight/2)
+fBack1=createSprite(displayWidth,displayHeight)
 fBack1.scale=2.19
 
 fSanta=createSprite(displayWidth/2+430,displayHeight/2+100)
